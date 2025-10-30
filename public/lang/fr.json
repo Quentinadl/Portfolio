@@ -1,0 +1,122 @@
+{
+"nav_experience": "Parcours",
+"nav_about": "À propos",
+"nav_contact": "Contact",
+"hero_title": "Quentin Adeline",
+"hero_sub": "Auditeur en Cybersécurité | Secteur Financier @EY",
+"hero_sub2": "Président @SEPEFREI Junior-Entreprise",
+"Presentation_text": "Hello",
+"hero_cta_experience": "Voir mon parcours",
+"hero_cta_contact": "Me contacter",
+
+"about_title": "À propos",
+"about_text": "Étudiant en 5e année à l’école d’ingénieur EFREI, je me spécialise dans la cybersécurité et la gouvernance des systèmes d’information. Mon objectif est de mettre mon expertise technique et stratégique au service des entreprises du secteur financier, notamment en audit IT et en analyse des risques. Grâce à mes expériences en alternance chez EY et BNP Paribas, ainsi qu’à mon engagement au sein de SEPEFREI, la Junior-Entreprise de l’école, j’ai acquis une vision globale de la sécurité informatique, du contrôle interne et de la gestion de projets. Dynamique et rigoureux, je combine compétences techniques et sens de l’organisation pour accompagner les organisations dans leur transformation digitale sécurisée.",
+"skills_title": "Compétences clés",
+"skills": ["Évaluation des risques liés aux systèmes d’information",
+    "Analyse du contrôle interne et gestion des risques",
+    "Revue technique des couches applicatives et infrastructurelles",
+    "Analyse de données via SQL, VBA, Python et IA",
+    "Accompagnement à la transformation digitale",
+    "Audit interne (outils GRC, IA, data analytics)"],
+
+  "experience_title": "Expériences Professionnelles",
+  "experience_visit": "Visiter le site",
+  "experiences": [
+    {
+      "company": "EY",
+      "logo": "../assets/logos/EY.png",
+      "title": "Alternant en Audit IT – Secteur Financier",
+      "period": "09/2025 – Aujourd'hui",
+      "description": "Réalisation de contrôles de sécurité informatique dans le cadre de missions de commissaire aux comptes spécialisées pour le secteur financier.",
+      "link": "https://www.ey.com/fr_fr"
+    },
+    {
+      "company": "BNP Paribas",
+      "logo": "../assets/logos/BNPP.png",
+      "title": "Assistant en Sécurité Informatique",
+      "period": "11/2024 – 04/2025",
+      "description": "Participation à des projets de contrôle d’accès, gestion des risques de 130 applications, soutien aux campagnes de continuité d’activité et conformité cyber.",
+      "link": "https://mabanque.bnpparibas/"
+    },
+    {
+      "company": "Horus Défense",
+      "logo": "../assets/logos/HD.png",
+      "title": "Chargé de Prospection Cyber (Freelance)",
+      "period": "04/2023 – 05/2023",
+      "description": "Prospection commerciale, scrapping et utilisation de Sales Navigator pour identifier des prospects qualifiés."
+    },
+    {
+      "company": "SEKOIA.IO",
+      "logo": "../assets/logos/SEKOIA.png",
+      "title": "Responsable Commercial Cybersécurité",
+      "period": "01/2023 – 02/2023",
+      "description": "Rendez-vous client, mise en place d’une stratégie commerciale ayant généré 12 rendez-vous en un mois.",
+      "link": "https://www.sekoia.io/fr/homepage/"
+    }
+  ],
+
+  "je_title": "Parcours Junior-Entreprise (SEPEFREI)",
+  "je_paragraphs": [
+    "Depuis <strong>2022</strong>, je m’investis pleinement au sein de <strong>SEPEFREI</strong>, la Junior-Entreprise de l’EFREI Paris, une structure étudiante qui réalise des prestations en ingénierie, conseil et développement numérique pour des entreprises externes.",
+    "Mon parcours y a été marqué par une <strong>évolution continue</strong>, me permettant d’acquérir une vision globale du fonctionnement d’une organisation et de développer des compétences solides en gestion de projet, management, stratégie et pilotage d’équipe.",
+    "J’ai d’abord intégré la structure en tant que <strong>Chef de Projet (2022–2023)</strong>, où j’ai assuré le suivi opérationnel de missions clients : cadrage des besoins, planification, suivi qualité et accompagnement des intervenants techniques.",
+    "En <strong>2023</strong>, j’ai pris la fonction de <strong>Responsable Commercial</strong>, un rôle clé dans le développement de la Junior-Entreprise. J’y ai défini la stratégie de prospection, conduit des entretiens commerciaux et renforcé la relation client.",
+    "L’année suivante, j’ai été élu <strong>Vice-président (2024–2025)</strong>. J’ai alors supervisé les pôles internes, assuré la cohésion du bureau et contribué à une <strong>analyse de risque complète</strong> pour renforcer la fiabilité opérationnelle.",
+    "Enfin, en <strong>2025</strong>, j’ai été élu <strong>Président de SEPEFREI</strong>. Je pilote aujourd’hui la stratégie globale, la gestion humaine de plus de 40 membres, et la représentation institutionnelle auprès de l’EFREI, de la CNJE et de nos partenaires.",
+    "Cette expérience m’a appris à <strong>diriger, décider et inspirer</strong>, tout en restant ancré dans une démarche de progrès collectif et de professionnalisation continue."
+  ],
+
+
+  "contact_title": "Contact",
+  "email_label": "Email",
+  "message_label": "Message",
+  "send": "Envoyer",
+  "contact_email": "Email",
+  "contact_phone": "Téléphone",
+  "contact_linkedin": "LinkedIn",
+  "contact_website": "Site web",
+    "footer_rights": "Tous droits réservés",
+
+  "linktr_title": "Quentin ADELINE",
+  "linktr_subtitle": "Auditeur en Cybersécurité | Secteur Financier @EY",
+  "linktr_subtitle2": "Président @SEPEFREI Junior-Entreprise",
+  "linktr_links": [
+    {
+      "label": "Mon site internet",
+      "url": "https://www.quentin_adeline.com",
+      "icon": "../assets/logos/Koppa_noir.png"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/quentin-adl/",
+      "icon": "../assets/logos/Logo_LinkedIn_blanc.png"
+    },
+    {
+      "label": "Calendly",
+      "url": "https://calendly.com/quentin-adeline/30min",
+      "icon": "../assets/logos/Logo_Calendar_blanc.png"
+    },
+    {
+      "label": "@quentin_adl_",
+      "url": "https://www.instagram.com/_quentin_adl_/",
+      "icon": "../assets/logos/Logo_Instagram_blanc.png"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Quentinadl",
+      "icon": "../assets/logos/Logo_GitHub_blanc.png"
+    }
+  ],
+  "linktr_companies": [
+    {
+      "name": "EY",
+      "url": "https://www.ey.com/en",
+      "logo": "../assets/logos/EY.png"
+    },
+    {
+      "name": "SEPEFREI",
+      "url": "https://sepefrei.fr",
+      "logo": "../assets/logos/SEPEFREI.png"
+    }
+  ]
+}

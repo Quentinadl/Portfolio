@@ -1,0 +1,125 @@
+{
+"nav_experience": "Experience",
+"nav_about": "About",
+"nav_contact": "Contact",
+"hero_title": "Quentin Adeline",
+"hero_sub": "Cybersecurity Auditor | Financial Sector @EY",
+"hero_sub2": "President @SEPEFREI Junior-Enterprise",
+"Presentation_text": "Hello",
+"hero_cta_experience": "See my experience",
+"hero_cta_contact": "Contact me",
+
+"about_title": "About me",
+"about_text": "5th-year engineering student at EFREI, specializing in cybersecurity and IT governance. My goal is to leverage my technical and strategic expertise to support companies in the financial sector, particularly in IT audit and risk analysis. Through my work experience at EY and BNP Paribas, and my involvement in SEPEFREI, the school’s Junior Enterprise, I developed a comprehensive understanding of IT security, internal control, and project management. Dynamic and meticulous, I combine technical skills with organizational insight to help organizations achieve secure digital transformation.",
+"skills_title": "Key skills",
+"skills": [
+    "Assessment of IT-related risks",
+    "Internal control analysis and risk management",
+    "Technical review of application and infrastructure layers",
+    "Data analysis using SQL, VBA, Python, and AI",
+    "Support for digital transformation initiatives",
+    "Internal audit (GRC tools, AI, data analytics)"
+  ], 
+
+  "experience_title": "Professional Experience",
+  "experience_visit": "Visit the website",
+  "experiences": [
+    {
+      "company": "EY",
+      "logo": "../assets/logos/EY.png",
+      "title": "IT Audit Intern – Financial Sector",
+      "period": "09/2025 – Present",
+      "description": "Performed IT security controls as part of financial audit engagements focused on the financial sector.",
+      "link": "https://www.ey.com/en"
+    },
+    {
+      "company": "BNP Paribas",
+      "logo": "../assets/logos/BNPP.png",
+      "title": "IT Security Assistant",
+      "period": "11/2024 – 04/2025",
+      "description": "Contributed to access control projects, managed risk for 130 applications, and supported business continuity and cybersecurity compliance initiatives.",
+      "link": "https://group.bnpparibas/en/"
+    },
+    {
+      "company": "Horus Défense",
+      "logo": "../assets/logos/HD.png",
+      "title": "Cyber Prospecting Consultant (Freelance)",
+      "period": "04/2023 – 05/2023",
+      "description": "Commercial prospecting, data scraping, and use of Sales Navigator to identify qualified leads."
+    },
+    {
+      "company": "SEKOIA.IO",
+      "logo": "../assets/logos/SEKOIA.png",
+      "title": "Cybersecurity Sales Manager",
+      "period": "01/2023 – 02/2023",
+      "description": "Conducted client meetings and implemented a sales strategy generating 12 appointments in one month.",
+      "link": "https://www.sekoia.io/en/homepage/"
+    }
+  ],
+
+  "je_title": "Junior-Enterprise Journey (SEPEFREI)",
+  "je_paragraphs": [
+    "Since <strong>2022</strong>, I have been fully involved with <strong>SEPEFREI</strong>, the Junior-Enterprise of EFREI Paris — a student-run consultancy delivering engineering, development and advisory services to external clients.",
+    "My journey there has been marked by <strong>continuous growth</strong>, providing me with a broad understanding of organisational operations and strong skills in project management, leadership, strategy and team supervision.",
+    "I first joined as <strong>Project Manager (2022–2023)</strong>, responsible for operational follow-up of client projects: requirement scoping, planning, quality control and coordination of technical contributors.",
+    "In <strong>2023</strong>, I became <strong>Head of Sales</strong>, defining prospecting strategy, leading client meetings and strengthening customer relations.",
+    "The following year, I was elected <strong>Vice-President (2024–2025)</strong>, where I supervised internal teams, ensured cohesion and contributed to a <strong>comprehensive risk analysis</strong> to enhance operational reliability.",
+    "Finally, in <strong>2025</strong>, I was elected <strong>President of SEPEFREI</strong>. I now oversee strategic direction, people management (40+ members), and institutional relations with EFREI, CNJE and partners.",
+    "This experience taught me to <strong>lead, decide and inspire</strong>, while staying grounded in collective progress and continuous professionalisation."
+  ],
+
+  "contact_title": "Contact",
+  "email_label": "Email",
+  "message_label": "Message",
+  "send": "Send",
+  "contact_email": "Email",
+  "contact_phone": "Phone",
+  "contact_linkedin": "LinkedIn",
+  "contact_website": "Website",
+
+    "footer_rights": "All rights reserved",
+
+  "linktr_title": "Quentin ADELINE",
+  "linktr_subtitle": "Cybersecurity Auditor | Financial Sector @EY  ",
+  "linktr_subtitle2": "President @SEPEFREI Junior-Enterprise",
+  "linktr_links": [
+    {
+      "label": "My website",
+      "url": "https://www.quentin_adeline.com",
+      "icon": "../assets/logos/Koppa_noir.png"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/quentin-adl/",
+      "icon": "../assets/logos/Logo_LinkedIn_blanc.png"
+    },
+    {
+      "label": "Calendly",
+      "url": "https://calendly.com/quentin-adeline/30min",
+      "icon": "../assets/logos/Logo_Calendar_blanc.png"
+    },
+    {
+      "label": "@quentin_adl_",
+      "url": "https://www.instagram.com/_quentin_adl_/",
+      "icon": "../assets/logos/Logo_Instagram_blanc.png"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Quentinadl",
+      "icon": "../assets/logos/Logo_GitHub_blanc.png"
+    }
+  ],
+  "linktr_companies": [
+    {
+      "name": "EY",
+      "url": "https://www.ey.com/en",
+      "logo": "../assets/logos/EY.png"
+    },
+    {
+      "name": "SEPEFREI",
+      "url": "https://sepefrei.fr",
+      "logo": "../assets/logos/SEPEFREI.png"
+    }
+  ]
+
+}

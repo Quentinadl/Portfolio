@@ -73,12 +73,12 @@ export default function ContactSection() {
             <p>
               <strong>{strings.contact_website || 'Site web'} :</strong>{' '}
               <a
-                href="https://www.quentin_adeline.com"
+                href="https://www.quentin-adeline.com/"
                 target="_blank"
                 rel="noreferrer"
                 className="text-emerald-700 hover:underline"
               >
-                quentin_adeline.com
+                quentin-adeline.com
               </a>
             </p>
           </div>

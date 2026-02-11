@@ -45,21 +45,6 @@ export default function ContactSection() {
 
           <div className="space-y-3 text-sm">
             <p>
-              <strong>{strings.contact_email || 'Email'} :</strong>{' '}
-              <a
-                href="mailto:quenitn.adeline18@gmail.com"
-                className="text-emerald-700 hover:underline"
-              >
-                quenitn.adeline18@gmail.com
-              </a>
-            </p>
-            <p>
-              <strong>{strings.contact_phone || 'Téléphone'} :</strong>{' '}
-              <a href="tel:+33614540702" className="text-emerald-700 hover:underline">
-                06-14-54-07-02
-              </a>
-            </p>
-            <p>
               <strong>{strings.contact_linkedin || 'LinkedIn'} :</strong>{' '}
               <a
                 href="https://www.linkedin.com/in/quentin-adl/"
